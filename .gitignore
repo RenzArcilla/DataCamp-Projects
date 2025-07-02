@@ -1,0 +1,17 @@
+# Bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+
+# Cache and temp files
+*.bak
+*.tmp
+*.swp
+.cache/
