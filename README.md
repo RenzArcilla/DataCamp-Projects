@@ -12,7 +12,7 @@ Welcome! This repository contains my completed portfolio projects from [DataCamp
 ---
 
 
-## 📌 Notes
+## Notes
 
 Some of the original datasets were only accessible through DataCamp’s project environment. When possible, I’ve exported data or created mock equivalents for use outside the platform.
 
