@@ -30,4 +30,6 @@ This project focuses on building a basic data pipeline to analyze the impact of 
 
 ---
 
+
 > This project serves as a foundational exercise in data engineering, focusing on data integration, transformation, and exploratory analysis around key retail events.
+
