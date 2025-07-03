@@ -6,7 +6,9 @@ Welcome! This repository contains my completed portfolio projects from [DataCamp
 
 | Project Title | Description | Skills |
 |--------------|-------------|--------|
-| 🏬 **Building a Retail Data Pipeline** | Built an end-to-end data pipeline that extracts retail sales data from SQL, merges with Parquet data, and exports the results for analysis. | SQL, pandas, Parquet, ETL |
+| **Building a Retail Data Pipeline** | Built an end-to-end data pipeline that extracts retail sales data from SQL, merges with Parquet data, and exports the results for analysis. | SQL, pandas, Parquet, ETL |
+| **Getting a Good Night's Sleep** | Explored lifestyle and biometric data to find patterns related to sleep quality, physical activity, stress, and sleep disorders. | pandas, EDA |
+| **Investigating Netflix Movies** | Analyzed Netflix's movie catalog to explore trends in genres, durations, and countries of origin, with a focus on titles from the 1990s. | pandas, data cleaning, EDA |
 ---
 
 
